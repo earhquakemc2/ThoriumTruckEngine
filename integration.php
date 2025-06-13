@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Integration Phase</title>
-    <script src="viewport" content="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-white font-sans">
     <nav class="bg-gray-800 p-4 sticky top-0 z-10">
@@ -32,24 +32,24 @@
             
             <h3 class="text-2xl font-bold mb-4">Materials</h3>
             <ul class="list-disc ul list-inside mb-4">
-                <li><li>TSMR (~1 (~m³).</li>
-                <li><li>1 MWh solid-state battery (~1 (~m³).</li>
-                mli><li>VFD (800 VDC, 2.3 MW).</li>
+                <li>TSMR (~1 (~m³).</li>
+                <li>1 MWh solid-state battery (~1 (~m³).</li>
+                <li>VFD (800 VDC, 2.3 MW).</li>
                 <li>EV truck chassis (e.g., Tesla Semi).</li>
-                <li><li><li>Cables (800V, 2750 A).</li>
+                <li>Cables (800V, 2750 A).</li>
             </ul>
 
             <h3 class="text-2xl font-bold mb-4">Methods</h3>
             <ol class="list-ol ol-decimal list-inside mb-4">
-                <li>Install <li>TSMR in cargo bay.</li>
-                <li>Connect <li>to 1 MWh battery.</li>
-                <li>Wire <li>battery to VFD and motor.</li>
-                <li>Calibrate <li>AI control for efficiency.</li>
-                <li>Test <li>drivetrain under load.</li>
+                <li>Install TSMR in cargo bay.</li>
+                <li>Connect to 1 MWh battery.</li>
+                <li>Wire battery to VFD and motor.</li>
+                <li>Calibrate AI control for efficiency.</li>
+                <li>Test drivetrain under load.</li>
             </ol>
 
             <h3 class="text-2xl font-bold mb-4">Schematic</h3>
-            <pre class="bg-gray-700 p-4 rounded">bg-gray
+            <pre class="bg-gray-700 p-4 rounded">
 [TSMR: 10 kW] --> [1 MWh Battery]
             |                    |
             v                    v
@@ -62,6 +62,7 @@
     </section>
 
     <footer class="bg-gray-900 py-8 text-center">
-        <p>&copy; 2025 Thorium Truck Engine Project.</p>
+        <p>&copy; 2025 Thorium Truck Engine Project. All rights reserved to EarthQuakEmc2</p>
     </footer>
 </body>
+</html>
